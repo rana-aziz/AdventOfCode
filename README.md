@@ -1,6 +1,6 @@
-###Advent Of Code
+# Advent Of Code
 
-##Description
+## Description
 This Repo has the code that I have devloped to solve the problems/puzzlese of "Advent of code" https://adventofcode.com/
 
-P.S: It is a learning curve code work.
+P.S: It is a learning curve code
