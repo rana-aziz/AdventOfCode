@@ -1,4 +1,4 @@
-﻿#Day6 - Part two
+﻿#Day1 - Part two
 <#
 Function Definition:
 1. It adds values and keys to a Hashtable
