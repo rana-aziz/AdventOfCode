@@ -1,4 +1,4 @@
-﻿#Day6 - Part one
+﻿#Day1 - Part one
 
 $Day1 = Get-Content -Path ".\Day1.txt"
 $Instructions = (($Day1.replace(' ' , '')).Split(", "))
