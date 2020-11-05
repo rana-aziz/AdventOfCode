@@ -1,4 +1,4 @@
-$stopwatch=[system.diagnostics.stopwatch]::StartNew()
+#Day5 - Part one
 
 $puzzle="ugkcyxxp"
 
@@ -32,4 +32,4 @@ Write-Host "Current ineteger is $nextInteger"
 
 Write-Host "Door password is $Password"
 
-#answer is D4CD2EE1
+#answer D4CD2EE1
